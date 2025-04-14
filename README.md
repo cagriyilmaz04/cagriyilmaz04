@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Çağrı Yılmaz</h1>
 <h3 align="center">Mobile Application Developer Advocate</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose** , **ArkTS**
 
 - 💬 Ask me about **Kotlin, Android, Arkts**
 
